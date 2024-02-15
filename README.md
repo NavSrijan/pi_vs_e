@@ -6,7 +6,7 @@ This project simulates a game of chess between two irrational constants: pi and 
 
 ### Usage
 
-- Clone the repository: git clone https://github.com/NavSrijan/pi_vs_e
+- Clone the repository: `git clone https://github.com/NavSrijan/pi_vs_e`
 - Install dependencies: `pip install -r requirements.txt`
-- Run the script 
+- Run the script:       `python main.py`
 
